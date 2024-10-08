@@ -1,4 +1,4 @@
-name: template-project-name
+name: gen_audiowave
 channels:
   - conda-forge
 dependencies:
